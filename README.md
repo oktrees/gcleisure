@@ -11,23 +11,21 @@
 
 # INFO
 
-* 강촌레져 예약관리 사이트 입니다 <br/>
-* 관리자 로그인 기능
-* 관리자는 BOOKLIST 탭 게시판에 작업물을 게시, 수정, 삭제, 이미지 업로드를 할 수 있습니다.<br/> 
-* 관리자는 CONTACT 탭에서 회사 소개 글을 수정할 수 있습니다. <br/>
-* 게시한 작업물들은 메인페이지에 carousel로 노출됩니다.<br/>
+* 강촌레져 예약관리 사이트 입니다 (퍼블리싱만 퍼블리셔분이 해주셨습니다.)<br/>
+* 관리자 페이지에서 공지, 예약, 문의, 패키지 게시판을 관리할수있습니다.
+* 날씨데이터를 파싱해와서 당일 날씨데이터를 제공해줍니다.
+* 오시는길 지도는 카카오맵 openApi를 사용하였습니다.
+* 게시글작성에 recaptcha기능을 사용하였습니다. <br/>
 <br/>
 
 
 # SKILL
 
 > ### FE 
-* js : react
-* css : styled-component
-* deployment : github-pages
+* js : jquery
+* css : css
 
 > ### BE
-* restApi : node-express
-* database : mysql-sequelize
-* deployment : aws EC2, RDS, Route53, Docker
+* restApi : php
+* database : mysql
 <br/>
